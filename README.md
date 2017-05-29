@@ -1,6 +1,6 @@
 # RoLocAlgos
 
-C++/Python/MatLab implementations of different Range-Only localization algorithms:
+C++/Python/MatLab implementations of different Range-Only localization algorithms.
 
 The algorithms are:
 - Trilateration
